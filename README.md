@@ -14,7 +14,7 @@ I focused on transforming raw, unformatted, and "dirty" datasets into clean, str
 * **[Safari Dataset.xlsx](01-data-cleaning-and-pipelines/Safari%20Dataset.xlsx)**: This is a raw dataset I prepared and processed through systematic data cleaning workflows.
 
 ### 2. Dashboards & Business Models (`02-dashboards-and-business-models/`)
-This features dynamic, stakeholder-ready executive dashboards utilizing Pivot Tables, Slicers, core lookup logic, and custom layout design.
+I built stakeholder-ready executive dashboards utilizing Pivot Tables, Slicers, core lookup logic, and custom layout design.
 * **[FlexTrade.xlsx](02-dashboards-and-business-models/FlexTrade.xlsx)**: This is a complex operational trading and financial dataset model.
 * **[HR Metric.xlsx](02-dashboards-and-business-models/HR%20Metric.xlsx)**: Human resources analytics workbook tracking headcount, turnover rates, and demographics.
 * **[SALES PERFORMANCE DASHBOARD.xlsx](02-dashboards-and-business-models/SALES%20PERFORMANCE%20DASHBOARD.xlsx)**: Comprehensive sales pipeline and quota-tracking sheet with automated visual summaries.
